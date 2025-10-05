@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/buidler6" target="blank"><img src="https://img.shields.io/twitter/follow/buidler6?logo=twitter&style=for-the-badge" alt="buidler6" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Smart Contract Security**
+- 🌱 I’m currently focused on **AI agents, workflow/process automation, and building scalable systems**
 
-- 👯 I’m looking to collaborate on **Web3 and Rust Projects**
+- 👯 I’m looking to collaborate on **AI automation, workflow, and Web3/blockchain projects**
 
-- 💬 Ask me about **Solidity, Hardhat, Javascript, EVM, DeFi**
+- 💬 Ask me about **N8N, Make, AI Agents, APIs, Python, Node.js, and building AI-driven tools**
 
 - 📫 How to reach me **vishakbhaskar.619@gmail.com**
 
